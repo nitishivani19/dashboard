@@ -1,4 +1,4 @@
-#!/Users/nitishkumar/Desktop/asin_dashboard_project/venv/bin/python3.12
+#!/Users/nitishkumar/Desktop/asin_dashboard_project/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
